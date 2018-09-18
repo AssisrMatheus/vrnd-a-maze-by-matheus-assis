@@ -27,7 +27,7 @@ The included starter project represents a new Unity project where the following 
 - VR Software Development - A Maze
 
 ### Personal additional considerations
-This scene got bigger than the previous project. The previous project could only have between 15 and 50 objects on the same scene but this one have much more than that, this concerns me about performance issues. Even though it ran fine on my mobile (Moto Z3 play), it took 40 minutes to 1 hour to bake the lighting on resolution set to 30(the previous one took about 5 minutes on 80 resolution). 
+This scene got bigger than the previous project. The previous project could only have between 15 and 50 objects on the same scene but this one have much more than that, this concerns me about performance issues. Even though it ran fine on my mobile (Moto Z3 play), it took 40 minutes to 1 hour to bake the lighting on resolution set to 30(the previous one took about 5 minutes on 80 resolution). I also had problems to light the flag with baked lighting, even unlit shader didn't work.
 
 Also the models aren't much simetric, the walls all have the same size so you can kinda have a "grid" on it, but the pillar plus its fittings breaks this grid by adding a non fixed size, so I had to put more walls or re-scale some of them, so I have some clipping.
 
