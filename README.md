@@ -1,5 +1,13 @@
 # A Maze
-Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
+
+<p align="center">
+	<img src="./Screenshot_20180918-112148.png" />
+	<img src="./Screenshot_20180918-112451.png" />
+ 	<img src="./Screenshot_20180918-112608.png" />
+ 	<img src="./Screenshot_20180918-112617.png" />
+</p>
+
+Starter project for(now out of order) the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: VR Software Development
 - Project: A Maze
